@@ -18,4 +18,4 @@
   - Generated 3D Bar charts, Pie charts, and Area charts for recruitment and training insights.
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)[www.linkedin.com/in/sharath-m-47b5332a9]
